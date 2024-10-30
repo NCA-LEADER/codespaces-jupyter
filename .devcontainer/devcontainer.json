@@ -1,4 +1,4 @@
-{
+{¥}
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "hostRequirements": {
     "cpus": 4
@@ -18,3 +18,4 @@
     }
   }
 }
+z
